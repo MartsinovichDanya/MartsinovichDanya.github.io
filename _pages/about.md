@@ -1,25 +1,28 @@
 ---
 layout: about
-title: about
+title: Обо мне
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: ML/MLOps engineer. NLP, LLM, RAG, BigData
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: profile_pic.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href="https://t.me/DanyaMartsinovich">@DanyaMartsinovich</a></p><br>
+    <p><a href="mailto:den.martsinovich@yandex.ru">den.martsinovich@yandex.ru</a></p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false  includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Привет. Меня зовут Даниил Марцинович. Я — ml/mlops engineer, data engineer.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Большой опыт применения моделей глубокого обучения для решения задач CV и NLP. Также обучаю классические ML-модели для задач anomaly detection в различных контекстах.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Мне нравится работать с данными, читать научные статьи, экспериментировать, пробовать различные подходы в обучении ML-моделей, строить графики.
+
+Въедливый, умею замечать небольшие логические ошибки, обожаю интеллектуальные игры, с удовольствием изучаю иностранные языки.
+
+Используемые технологии: python, transformers, EfficientNet, MobileNet, YOLO, OpenCV, PIL, PyOD, pandas, sklearn, pytorch, lightning, numpy, matplotlib, plotly, huggingface, catboost, onnx, fastapi, uvicorn, pyinstaller, pywin32, optimum, airflow, mlflow, cvat, natasha, deeppavlov, BERT, whisper, Ollama
