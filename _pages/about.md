@@ -6,7 +6,7 @@ subtitle: ML/MLOps engineer. NLP, LLM, RAG, BigData
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: profile_pic_s.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><a href="https://t.me/DanyaMartsinovich">@DanyaMartsinovich</a></p><br>
@@ -17,12 +17,14 @@ selected_papers: false  includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Привет. Меня зовут Даниил Марцинович. Я — ml/mlops engineer, data engineer.
+Привет. Меня зовут Даниил Марцинович. Я — python разработчик, ml/mlops engineer.
 
-Большой опыт применения моделей глубокого обучения для решения задач CV и NLP. Также обучаю классические ML-модели для задач anomaly detection в различных контекстах.
+Большой опыт применения и вывода в prod различных моделей (LLM, TTS, STT, классические ML модели) для использования в разных сценариях. Также занимаюсь проектированием и разработкой RAG-систем.
 
-Мне нравится работать с данными, читать научные статьи, экспериментировать, пробовать различные подходы в обучении ML-моделей, строить графики.
+Кроме основной работы занимаюсь менторингом молодых специалистов.
 
-Въедливый, умею замечать небольшие логические ошибки, обожаю интеллектуальные игры, с удовольствием изучаю иностранные языки.
+Мне нравится изучать механизм работы моделей, читать статьи на эту тему, экспериментировать с моделями и пробовать различные способы ускорения их работы.
 
-Используемые технологии: python, transformers, EfficientNet, MobileNet, YOLO, OpenCV, PIL, PyOD, pandas, sklearn, pytorch, lightning, numpy, matplotlib, plotly, huggingface, catboost, onnx, fastapi, uvicorn, pyinstaller, pywin32, optimum, airflow, mlflow, cvat, natasha, deeppavlov, BERT, whisper, Ollama
+Въедливый, умею замечать логические ошибки, люблю решать сложные задачи, с удовольствием изучаю иностранные языки.
+
+Используемые технологии: python, vllm, onnx, tensorrt-llm, fastapi, flask, uvicorn, optimum, airflow, spark, hadoop, mlflow, whisper, mistral, ollama, pyinstaller, transformers, huggingface, YOLO, OpenCV, PIL, pandas, pytorch, numpy, matplotlib, plotly
