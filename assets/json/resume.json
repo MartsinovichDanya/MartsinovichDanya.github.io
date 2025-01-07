@@ -1,12 +1,12 @@
 {
-  "основное": {
-    "имя": "Михаил Васильев",
-    "специальность": "Data Scientist",
-    "image": "mvasiljev.jpg",
-    "email": "gnu.xinm@gmail.com",
-    "телефон": "+7 (916) 198-81-83",
+  "basics": {
+    "имя": "Даниил Марцинович",
+    "специальность": "ML/MLOps engineer",
+    "image": "profile_pic_s.jpg",
+    "email": "den.martsinovich@yandex.ru",
+    "телефон": "+7 (965) 309-57-21",
     "телеграм": "LaHundo",
-    "сайт": "https://onixlas.github.io/",
+    "сайт": "https://MartsinovichDanya.github.io",
     "о себе": "Deep learning инженер. NLP, CV, anomaly detection. Организатор DS-сообщества. Победитель хакатонов. Open source contributor",
     "location": {
       "city": "Москва",
