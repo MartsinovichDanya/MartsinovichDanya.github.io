@@ -54,17 +54,12 @@ layout: default
         {{ page.title }}
         {% if page.cv_pdf %}
           <a
-            {% if page.cv_pdf contains '://' %}
-              href="{{ page.cv_pdf }}"
-            {% else %}
-              href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
-            {% endif %}
+            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
-          >
-            <i class="fa-solid fa-file-pdf"></i>
-          </a>
+            ><i class="fa-solid fa-file-pdf"></i
+          ></a>
         {% endif %}
       </h1>
       {% if page.description %}
@@ -86,27 +81,27 @@ layout: default
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
             <div>
               {% case data[0] %}
-                {% when 'basics' %}
+                {% when 'основное' %}
                   {% include resume/basics.liquid %}
-                {% when 'education' %}
+                {% when 'образование' %}
                   {% include resume/education.liquid %}
-                {% when 'work' %}
+                {% when 'работа' %}
                   {% include resume/work.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
-                {% when 'projects' %}
+                {% when 'пет-проекты' %}
                   {% include resume/projects.liquid %}
                 {% when 'awards' %}
                   {% include resume/awards.liquid %}
-                {% when 'skills' %}
+                {% when 'технологии' %}
                   {% include resume/skills.liquid %}
-                {% when 'publications' %}
+                {% when 'выступления' %}
                   {% include resume/publications.liquid %}
-                {% when 'languages' %}
+                {% when 'языки' %}
                   {% include resume/languages.liquid %}
                 {% when 'interests' %}
                   {% include resume/interests.liquid %}
-                {% when 'certificates' %}
+                {% when 'сертификаты' %}
                   {% include resume/certificates.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}

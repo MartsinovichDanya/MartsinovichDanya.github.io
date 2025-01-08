@@ -9,8 +9,8 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$purple-color};
+  --global-theme-color: #{$green-color};
+  --global-hover-color: #{$green-color};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
@@ -56,11 +56,10 @@
     display: none;
   }
 
-  .only-light {
+  .repo-img-light {
     display: block;
   }
-
-  .only-dark {
+  .repo-img-dark {
     display: none;
   }
 
@@ -112,11 +111,10 @@ html[data-theme="dark"] {
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
-  .only-light {
+  .repo-img-light {
     display: none;
   }
-
-  .only-dark {
+  .repo-img-dark {
     display: block;
   }
 }
