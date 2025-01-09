@@ -131,82 +131,64 @@
   ],
   "сертификаты": [
     {
-      "name": "Поколение Python. Курс для продвинутых",
-      "date": "2022-04-02",
+      "name": "Программирование на Golang",
+      "date": "2024-03-05",
       "issuer": "Stepik",
-      "url": "https://stepik.org/cert/1460043"
+      "url": "https://stepik.org/cert/2380417"
     },
     {
-      "name": "Поколение Python. Курс для профессионалов",
-      "date": "2024-06-30",
-      "issuer": "Stepik",
-      "url": "https://stepik.org/cert/2511973"
+      "name": "Introduction to NoSQL Databases",
+      "date": "2022-01-13",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/ZWWYKSS5DNU5"
     },
     {
-      "name": "Добрый, добрый Python ООП",
-      "date": "2023-05-21",
-      "issuer": "Stepik",
-      "url": "https://stepik.org/cert/2071046"
+      "name": "Web Application Technologies and Django",
+      "date": "2021-12-20",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/E8AXWR8RQX88"
     },
     {
-      "name": "Основы статистики",
-      "date": "2022-06-02",
-      "issuer": "Stepik",
-      "url": "https://stepik.org/cert/1535940"
+      "name": "CPA: Programming Essentials in C++",
+      "date": "2021-04-16",
+      "issuer": "Cisco Networking Academy",
+      "url": "https://drive.google.com/file/d/1-3AoxwWiOtwrw2WPv7Ppbz1SyhDd6ZdL/view"
     },
     {
-      "name": "Введение в Data Science и машинное обучение",
-      "date": "2022-04-16",
-      "issuer": "Stepik",
-      "url": "https://stepik.org/cert/1479747"
+      "name": "IT Essentials",
+      "date": "2020-12-24",
+      "issuer": "Cisco Networking Academy",
+      "url": "https://drive.google.com/file/d/1-4ClrN-pKVq0ywsHMoByaxvuMBhzMn2l/view"
     },
     {
-      "name": "Data Science с Глебом Михайловым",
-      "date": "2022-09-16",
-      "issuer": "Stepik",
-      "url": "https://stepik.org/cert/1673640"
+      "name": "Основы Java",
+      "date": "2020-05-21",
+      "issuer": "GeekBrains",
+      "url": "https://gb.ru/certificates/853208.ru"
     },
     {
-      "name": "SQL для Анализа Данных с Глебом Михайловым",
-      "date": "2022-11-06",
-      "issuer": "Stepik",
-      "url": "https://stepik.org/cert/1753578"
+      "name": "Основы промышленного программмирования",
+      "date": "2019-05-13",
+      "issuer": "Яндекс Лицей",
+      "url": "https://drive.google.com/file/d/1--QIr1qBnTuyX9MJJ6KDXeS4RWX41a4K/view"
     },
     {
-      "name": "Асинхронный Python",
-      "date": "2024-09-22",
-      "issuer": "Stepik",
-      "url": "https://stepik.org/cert/2585570"
+      "name": "The Unix Workbench",
+      "date": "2018-08-11",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/WWQUF6MJXZMM"
     },
     {
-      "name": "MLOps Bootcamp",
-      "date": "2023-10-20",
-      "issuer": "ФКН НИУ ВШЭ",
-      "url": "https://github.com/onixlas/DS_portfolio/blob/main/certificates/hse_mlops.png"
+      "name": "Погружение в Python",
+      "date": "2018-05-19",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/M22UTQP54BBM"
     },
     {
-      "name": "Intro to Machine Learning",
-      "date": "2022-05-28",
-      "issuer": "Kaggle",
-      "url": "https://www.kaggle.com/learn/certification/salutonkielvifartas/intro-to-machine-learning"
-    },
-    {
-      "name": "Intermediate Machine Learning",
-      "date": "2022-06-02",
-      "issuer": "Kaggle",
-      "url": "https://www.kaggle.com/learn/certification/salutonkielvifartas/intermediate-machine-learning"
-    },
-    {
-      "name": "Data Visualization",
-      "date": "2022-06-26",
-      "issuer": "Kaggle",
-      "url": "https://www.kaggle.com/learn/certification/salutonkielvifartas/data-visualization"
-    },
-    {
-      "name": "Feature Engineering",
-      "date": "2022-06-30",
-      "issuer": "Kaggle",
-      "url": "https://www.kaggle.com/learn/certification/salutonkielvifartas/feature-engineering"
+      "name": "Основы программмирования на языке Python",
+      "date": "2018-05-04",
+      "issuer": "Яндекс Лицей",
+      "url": "https://drive.google.com/file/d/1-07XlggSYwd1xgLyhLy3ibTAD-AQHOFE/view"
     }
   ],
   "языки": [
