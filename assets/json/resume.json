@@ -20,14 +20,17 @@
       "location": "Москва, Россия",
       "url": "https://ppr.ru/",
       "startDate": "2023-10",
-      "summary": "<p>Проекты: разработка прикладных систем на основе искусственного интеллекта для решения различных задач</p><p>Инструменты: Python, Airflow, Hadoop, Pyspark, PostgreSQL, VerticaDB, Hive, Numpy, Pandas, Jupyter</p>",
+      "summary": "<p>Проекты: разработка прикладных систем на основе искусственного интеллекта для решения различных задач</p><p>Инструменты: Python, Rabbit MQ, Numpy, Pandas, Matplotlib, Pytorch, MLflow, Fastapi, Whisper, Mistral, Tensorrt-LLM, llama.cpp, vLLM, OpenaAI API, PostgreSQL, FAISS, Redis, Jupyter, Telegram API</p>",
       "highlights": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "разработал сервис транскрибации реального времени на основе Whisper",
+        "реализовал систему транскрибации с диаризацией говорящих",
+        "создал чат-бот для получения стенограмм онлайн встреч",
+        "работал над ускорением инференса LLM моделей, удалось уменьшить время ответа LLM в 2 раза",
+        "спроектировал и разработал голосового ассистента для общения и ответов на вопросы по заранее определенному контексту (RAG)",
+        "выстроил процессы разработки отдела ИИ",
+        "создал RnD среду для работы DS специалистов (Jupyter Hub, Gitlab, хранилище моделей и другие компоненты)",
+        "руковожу командой разработки из 3 молодых специалистов",
+        "отвечаю за вывод в продакшн систем разработанных мной или моей командой"
       ]
     },
     {
@@ -78,40 +81,36 @@
   ],
   "технологии": [
     {
-      "name": "Deep Learning",
-      "keywords": ["PyTorch", "Lightning", "ONNX", "HuggingFace", "Optimum"]
-    },
-    {
-      "name": "NLP",
-      "keywords": ["Ollama", "Label Studio", "transformers", "deeppavlov", "natasha", "yargy parser"]
+      "name": "LLM & Optimizations",
+      "keywords": ["Mistral", "RAG", "Function calling", "Tensorrt-LLM", "Nvidia NeMo", "vLLM", "llama.cpp"]
     },
     {
       "name": "Computer Vision",
-      "keywords": ["object detection", "segmentation", "autoencoders", "UNet", "YOLO", "CVAT", "OpenCV", "PIL"]
-    },
-    {
-      "name": "Anomaly Detection",
-      "keywords": ["PyOD", "PySAD", "ECOD", "HBOS", "iForest", "Exact-STORM", "Half-space Trees", "RRCF"]
+      "keywords": ["OpenCV", "PIL", "YOLO", "Tesseract OCR"]
     },
     {
       "name": "Базы Данных",
-      "keywords": ["scikit-learn", "CatBoost", "XGBoost", "faiss"]
+      "keywords": ["PostgreSQL", "Clickhouse", "VerticaDB", "Hive", "MongoDB", "Redis"]
     },
     {
-      "name": "Data analysis",
-      "keywords": ["python", "SQL", "PostgreSQL", "MySQL", "pandas", "polars"]
+      "name": "Backend",
+      "keywords": ["FastAPI", "Flask", "Django", "Nginx", "Uvicorn", "RabbitMQ", "Websockets", "Telegram API"]
     },
     {
-      "name": "Audio",
-      "keywords": ["whisper", "hubert", "Common Voice"]
+      "name": "Аудио",
+      "keywords": ["Whisper", "SpeechBrain", "pydub"]
     },
     {
       "name": "Data visualisation",
-      "keywords": ["seaborn", "matplotlib", "plotly"]
+      "keywords": ["Seaborn", "Matplotlib", "Plotly"]
     },
     {
       "name": "MLOps & Deployment",
-      "keywords": ["MLFlow", "AirFlow", "Docker", "Linux", "FastAPI", "pywin32", "uvicorn", "pyinstaller"]
+      "keywords": ["MLFlow", "AirFlow", "Linux", "Docker", "Docker Compose", "Kebernetes", "Gitlab CI/CD"]
+    },
+    {
+      "name": "Мониторинг",
+      "keywords": ["Prometheus", "Grafana", "Loki", "Promtail", "Node Exporter"]
     }
   ],
   "образование": [
