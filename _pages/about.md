@@ -25,6 +25,6 @@ social: true # includes social icons at the bottom of the page
 
 Мне нравится изучать механизм работы моделей, читать статьи на эту тему, экспериментировать с моделями и пробовать различные способы ускорения их работы.
 
-Въедливый, умею замечать логические ошибки, люблю решать сложные задачи, с удовольствием изучаю иностранные языки.
+Внимательно отношусь к деталям, умею замечать логические ошибки, люблю решать сложные задачи, с удовольствием изучаю иностранные языки.
 
 Используемые технологии: python, vllm, onnx, tensorrt-llm, fastapi, flask, uvicorn, optimum, airflow, spark, hadoop, mlflow, whisper, mistral, ollama, pyinstaller, transformers, huggingface, YOLO, OpenCV, PIL, pandas, pytorch, numpy, matplotlib, plotly
